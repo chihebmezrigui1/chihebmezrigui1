@@ -47,9 +47,9 @@
 
 ## 📫 Contact Me  
 
-📌 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/chihab-mezrigui-6b0b531ab/)](#)  
+📌 **LinkedIn:** [chihab mezrigui](https://www.linkedin.com/in/chihab-mezrigui-6b0b531ab/)  
 📌 **GitHub:** [chihebmezrigui1](https://github.com/chihebmezrigui1)  
-📌 **Email:** your.email@example.com  
+📌 **Email:** mezrigui.chihab@gmail.com
 
 ---
 
