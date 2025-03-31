@@ -60,9 +60,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://chihabmezrigui.netlify.app/)**  
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/chihabmezrigui/)**  
-- 💬 Ask me about **ReactJS, Angular, Python, Django, Flask, Dockerization, DevOps, Cloud**  
-- 📫 How to reach me: **mezrigui.chihab@gmail.com**  
-
+- 💬 Ask me about **ReactJS, Angular, Python, Django, Flask, Dockerization, DevOps, Cloud, Machine Learning, Pandas, Apache Spark, Data Processing**  
+- 📫 How to reach me: **mezrigui.chihab@gmail.com**
+  
 ---
 
 ## 📊 GitHub Stats  
