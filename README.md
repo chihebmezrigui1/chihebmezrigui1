@@ -7,6 +7,15 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chihebmezrigui1&show_icons=true&theme=radical" alt="Chihab's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihebmezrigui1&theme=radical" alt="GitHub Streak" width="48%"/>
+</div>  
+
+---
+
 ## 💻 Coding & Tech Stack  
 
 ### 🔹 Programming Languages:  
@@ -65,17 +74,8 @@
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/chihabmezrigui/)**  
 - 💬 Ask me about **ReactJS, Angular, Python, Django, Flask, Dockerization, DevOps, Cloud, Machine Learning, Pandas, Apache Spark, Data Processing**  
 - 📫 How to reach me: **mezrigui.chihab@gmail.com**
-  
----
 
-## 📊 GitHub Stats  
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chihebmezrigui1&show_icons=true&theme=radical" alt="Chihab's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihebmezrigui1&theme=radical" alt="GitHub Streak" width="48%"/>
-</div>  
-
----
+----
 
 ## 🌍 Connect with Me  
 
