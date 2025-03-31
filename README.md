@@ -77,7 +77,7 @@
 ## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chihabmezrigui/" target="_blank">
+  <a href="https://www.linkedin.com/in/chihab-mezrigui-6b0b531ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mezrigui.chihab@gmail.com">
