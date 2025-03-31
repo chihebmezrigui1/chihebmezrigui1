@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Chihab Mezrigui!  
 
-### 🚀 A multidisciplinary **Full-Stack Developer & Data Engineer** from France 🇫🇷  
 
-🎯 Passionate about **Web Development, Cloud, DevOps & Data Engineering**  
-💡 Always learning new technologies & best practices  
+🚀 **Fullstack Developer & Data Engineer**  
+🎓 Master’s student in **Big Data & AI** (M2) at **IPSSI Paris** (work-study program)  
+💡 Passionate about **Cloud Computing, AI, and Scalable Web Applications**  
 
 ---
 
