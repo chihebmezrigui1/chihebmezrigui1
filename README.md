@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chiheb Mezrigui!  
+# 👋 Hi, I'm Chihab Mezrigui!  
 
 🚀 **Fullstack Developer & Data Engineer**  
 🎓 Master’s student in **Big Data & AI** (M2) at **IPSSI Paris** (work-study program)  
