@@ -12,6 +12,8 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=chihebmezrigui1&show_icons=true&theme=radical" alt="Chihab's GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chihebmezrigui1&theme=radical" alt="GitHub Streak" width="48%"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chihebmezrigui1&layout=compact&theme=radical)](https://github.com/chihebmezrigui1?tab=repositories)
+
 </div>  
 
 ---
