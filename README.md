@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chihab Mezrigui!  
 
 
-🚀 **Fullstack Developer Python & T/J script | Data Engineer**  
+🚀 **Fullstack Developer Python & JavaScript | Data Engineer**  
 🎓 Master’s student in **Big Data & AI** (M2) at **IPSSI Paris** (work-study program)  
 💡 Passionate about **Cloud Computing, AI, and Scalable Web Applications**  
 
