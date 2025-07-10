@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Chihab Mezrigui!  
 
-
 🚀 **Fullstack Developer Python & JavaScript | Data Engineer**  
 🎓 Master’s student in **Big Data & AI** (M2) at **IPSSI Paris** (work-study program)  
 💡 Passionate about **Cloud Computing, AI, and Scalable Web Applications**  
@@ -45,6 +44,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/PySpark-FFAE1A?style=flat&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Pig-FD7013?style=flat&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachespark&logoColor=black" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
@@ -53,9 +55,8 @@
 
 ### 🔹 Cloud & DevOps:  
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-5C2D91?style=flat&logo=githubactions&logoColor=white" />
 </div>  
@@ -75,7 +76,7 @@
 - 💬 Ask me about **ReactJS, Angular, Python, Django, Flask, Dockerization, DevOps, Cloud, Machine Learning, Pandas, Apache Spark, Data Processing**  
 - 📫 How to reach me: **mezrigui.chihab@gmail.com**
 
-----
+---
 
 ## 🌍 Connect with Me  
 
